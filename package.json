@@ -1,0 +1,16 @@
+{
+  "name": "lint-config",
+  "version": "1.0.0",
+  "description": "package for extending lint configs",
+  "main": "index.js",
+  "repository": "https://github.com/touqeerraza/lint-config.git",
+  "author": "touqeerraza <tauqeer.khimji@peekaboo.guru>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "^14.2.5",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-prettier": "^5.2.1"
+  }
+}
